@@ -6,4 +6,3 @@
 def floor(n: float)-> int:
 	"""return the number on an int"""
 	return int(n)
-
